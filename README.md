@@ -48,3 +48,5 @@ again hello
 вфвф
 
 Текст из ветки one и текст из ветки dev-feature
+
+фвф
