@@ -45,3 +45,6 @@ privet
 again hello
 
 фвф
+вфвф
+
+Текст из ветки one и текст из ветки dev-feature
